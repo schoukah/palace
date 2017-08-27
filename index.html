@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>That New Story I've wanted to write forever</title>
+    <title>That New Story I've wanted to write</title>
     <link rel="stylesheet" type="text/CSS" href="styles.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 </head>
@@ -17,13 +17,22 @@
         of wine.)</p>
         <br>
         <br>
-        <p>press any key to continue</p>
+        <a href="part2.html">Continue</a>
 
 
-        <p id="test">0</p>
+
     </div>
 </div>
 <script>
+
+   $("p#first").hide();
+   $("p#first").show(2000);
+
+
+
+
+
+    /*
 
 i = 0;
 $(document).ready(function(){
@@ -62,13 +71,13 @@ $(document).ready(function(){
             $("p#first").show(1000);
         }
         if (i == 4){
-            alert("Do you know what she's talking about?");
+            alert("here is something happening!");
         }
 
         $("p#test").text(i);
     });
 });
-    /*
+
     function myFunction() {
         window.location.href = "http://www.google.com/";
     }
