@@ -4,3 +4,5 @@ Added some more stuff to test out git
 
 
 I don't know why it's telling me that git doesn't work.
+
+And why it doesn't work now.
