@@ -1,0 +1,6 @@
+# Alma sees the door that opens towards the room of the doors to the palace
+
+
+Alma, Nagib and Clare wonder through the vast room. Anni was fond of optical illusion and everything related to levels of abstraction. She used to say that, because there hadn't much room for amusement or humour during the war, many of that generation's artists started infusing their work with a sense of absurdity, and many others reclaimed play and tongue-in-cheek observation in, subtle, learned and entertaining pieces. They were trying to figure out a new visual language, a languaging through which they could take back their freedom in such a glorious way, as if they were so strong as to laugh at meanness, at baseness, exposing its fragile, vulnerable core, reducing it to something that wouldn't prevail ever again. In her later years, she collected several copies of works by M.C. Escher and René Magritte. But she also had other illustrations on display across walls. <!-- describe the room more. Where are the artworks hanging? How close are they to each other? -->Not even a few meters away into it they pause. Clare says: "something's off. Don't know what though". 
+
+Suddlenly Alma finds herself feeling sullen. She doesn't know what to think of the room now that Anni is gone.    sees this room 

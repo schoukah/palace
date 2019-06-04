@@ -1,0 +1,1 @@
+You read a book instead of watching Netflix because somehow the setup makes more sense. And you don't have to wear earphones or earbuds. And if you have a Computer on your lap and you fall asleep it falls down (that happened before). But the book falling down is a book falling down. You slither into sleep. The book falls down and you wake up suddenly.
