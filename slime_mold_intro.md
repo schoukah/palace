@@ -1,0 +1,3 @@
+# Emergence, (?outgrowth)
+
+Your awareness 
