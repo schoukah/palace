@@ -1,0 +1,47 @@
+* Clocked Time
+
+#+BEGIN: clocktable :scope file :maxlevel 2
+#+CAPTION: Clock summary at [2019-07-06 Sat 14:47]
+| Headline                                | Time |      |
+|-----------------------------------------+------+------|
+| *Total time*                              | *0:13* |      |
+|-----------------------------------------+------+------|
+| The palace of destinies                 | 0:13 |      |
+| \_  Fate the spider: the first sighting |      | 0:13 |
+#+END:
+
+
+* The palace of destinies
+:PROPERTIES:
+:EXPORT_FILE_NAME: /Users/sarahchoukah/palace/testexport
+:END:
+#+OPTIONS: TOC:nil
+** Fate the spider: the first sighting
+   :LOGBOOK:
+   CLOCK: [2019-07-06 Sat 14:32]--[2019-07-06 Sat 14:45] =>  0:13
+   :END:
+
+Nagib and Aela know what disgusts Alma most. It is bad enough, in one place, to see and touch so many cobwebs, proof of the arthropods rich reign. That alone is enough to make Alma heave out every bit of undigested food out of her system and beyond. But finding all these treasures, unreported and obviously stolen, could make her heave for the rest of her life. I don't know what Hegge's role in all this was, Alma blurts out between spikes of acid reflux in her throat. She's not heaving yet. But breathes in the low, rumbling manner of a hurt animal. Her heart is  
+
+** leap of faith                                                   :noexport:
+
+ <2019-04-29 Mon 00:48>
+
+ Nagib has to choose between the belief that his religion is nothing 
+
+ It's the time where Alma and Nagib are being put to the test. "It's the time where my love for you shows and goes well beyond everything else". But something goes wrong there and either Nagib or Alma chooses not to trust the relationship more than the commitment on which he or she is challenged. 
+
+
+ # I'm really at a loss. 
+
+ # test story .org
+
+ # Added some more stuff to test out git 
+
+
+ # I don't know why it's telling me that git doesn't work.
+
+ # And why it doesn't work now.
+
+ # and now, and now
+
